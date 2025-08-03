@@ -1,17 +1,11 @@
 # Employee Attrition Analysis & Prediction 🏢📊
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.13.1-blue.svg)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-orange.svg)](https://scikit-learn.org/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow.svg)](https://powerbi.microsoft.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comprehensive machine learning project that predicts employee attrition using the IBM HR Analytics dataset. This project combines exploratory data analysis with advanced machine learning techniques to help organizations understand and predict employee turnover.
-
-## 📊 Dashboard Preview
-
-![Employee Attrition Dashboard](Assets/dashboard.png)
-
-*Interactive Power BI dashboard providing real-time insights into employee attrition patterns and predictions*
 
 ## 🎯 Project Overview
 
@@ -121,6 +115,12 @@ Employee-Attrition-Analysis/
 └── Assets/
     └── dashboard.png
 ```
+
+## 📊 Dashboard Preview
+
+![Employee Attrition Dashboard](Assets/dashboard.png)
+
+*Interactive Power BI dashboard providing real-time insights into employee attrition patterns and predictions*
 
 ## 🚀 Getting Started
 
